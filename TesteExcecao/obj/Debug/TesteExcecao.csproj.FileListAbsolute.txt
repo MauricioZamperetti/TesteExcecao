@@ -1,8 +1,0 @@
-C:\Projetos\TesteExcecao\TesteExcecao\obj\Debug\TesteExcecao.csproj.AssemblyReference.cache
-C:\Projetos\TesteExcecao\TesteExcecao\obj\Debug\TesteExcecao.csproj.SuggestedBindingRedirects.cache
-C:\Projetos\TesteExcecao\TesteExcecao\obj\Debug\TesteExcecao.csproj.CoreCompileInputs.cache
-C:\Projetos\TesteExcecao\TesteExcecao\bin\Debug\TesteExcecao.exe.config
-C:\Projetos\TesteExcecao\TesteExcecao\bin\Debug\TesteExcecao.exe
-C:\Projetos\TesteExcecao\TesteExcecao\bin\Debug\TesteExcecao.pdb
-C:\Projetos\TesteExcecao\TesteExcecao\obj\Debug\TesteExcecao.exe
-C:\Projetos\TesteExcecao\TesteExcecao\obj\Debug\TesteExcecao.pdb
